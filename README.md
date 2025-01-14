@@ -19,4 +19,4 @@ A brief description of what your project does and its purpose.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/Baking-brain/EXP-for_SEPM.git
