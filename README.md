@@ -15,6 +15,7 @@ A brief description of what your project does and its purpose.
 - Technology 1
 - Technology 2
 - Technology 3
+- Technology 4
 
 ## Installation
 1. Clone the repository:
